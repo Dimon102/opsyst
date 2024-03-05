@@ -1,0 +1,5 @@
+D:\Проекты\C++\MultithreadingC++\x64\Debug\MultithreadingC++.exe
+D:\Учёба\Операционные системы\repa\operationnie-syski\3 лаба\MultithreadingC++\x64\Debug\MultithreadingC++.exe
+F:\Учёба\Операционные системы\operationnie-syski\3 лаба\MultithreadingC++\x64\Debug\MultithreadingC++.exe
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\от василя\3 лаба\MultithreadingC++\x64\Debug\MultithreadingC++.exe
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\3 лаба\MultithreadingC++\x64\Debug\MultithreadingC++.exe

@@ -1,0 +1,37 @@
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe.config
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.pdb
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.AssemblyReference.cache
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.Properties.Resources.resources
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.GenerateResource.cache
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.CoreCompileInputs.cache
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.exe
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.pdb
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe.config
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.pdb
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.AssemblyReference.cache
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.SuggestedBindingRedirects.cache
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.Properties.Resources.resources
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.GenerateResource.cache
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.CoreCompileInputs.cache
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.exe
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.pdb
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.hyper_thret.resources
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.MainForm.resources
+F:\Учёба\Операционные системы\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.ChartForm.resources
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.ChartForm.resources
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.hyper_thret.resources
+D:\Учёба\Операционные системы\repa\operationnie-syski\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.MainForm.resources
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe.config
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.exe
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\bin\Debug\WinformsMultithreading.pdb
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.AssemblyReference.cache
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.ChartForm.resources
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.hyper_thret.resources
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.MainForm.resources
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.Properties.Resources.resources
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.GenerateResource.cache
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.csproj.CoreCompileInputs.cache
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.exe
+D:\Dima\Дима\Операционные системы(4 курс)\калугин\C+#\4 лаба\WinformsMultithreading\obj\Debug\WinformsMultithreading.pdb
